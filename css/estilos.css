@@ -1,0 +1,101 @@
+body {
+    font-family: Arial, sans-serif;
+    /* margin: 15px; */
+    text-align: center;
+}
+
+h1.titulo {
+    font-size: 22px;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    vertical-align: middle;
+    color: #fff;
+    background-color: #3b9c00;
+    line-height: normal;
+    display: inline-block;
+    width: 1000px;
+    vertical-align: baseline;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+h2.subtitulo {
+    font-weight: bold;
+    font-size: 22px;
+    text-align: left;
+    text-transform: uppercase;
+    text-decoration: none;
+    line-height: normal;
+    display: block;
+    margin-block-start: 15px;
+    margin-block-end: 15px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    display: inline-block;
+    text-align: left;
+    width: 1000px;
+}
+
+table,
+th,
+td {
+    width: 1000px;
+    padding: 15px;
+    border-spacing: 0;
+    border-bottom: 1px solid silver;
+    border-top: 1px solid #ddd;
+    text-align: center;
+}
+
+td.cinza {
+    background-color: #e9e6e6;
+}
+
+td.cinzaPontos {
+    background-color: #e9e6e6;
+    font-weight: bold;
+}
+
+#idThClassificacao {
+    text-align: left;
+}
+
+td.libertadores {
+    color: #0000ff;
+}
+
+td.pre-libertadores {
+    color: #00ffff;
+}
+
+td.sul-americana {
+    color: #008000;
+}
+
+td.zona-morta {
+    color: #aaa8a8;
+}
+
+td.rebaixados {
+    color: #ff0000;
+}
+
+tr.cabecalho {
+    color: #999;
+    font-size: 11px;
+    height: 30px;
+}
+
+div.divtitulo {
+    text-align: center;
+}
+
+div.tabela {
+    display: inline-block;
+    text-align: center;
+}
+
+.tabela table tr td:nth-child(2) {
+    text-align: left;
+}

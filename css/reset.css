@@ -1,6 +1,6 @@
-/* http://meyerweb.com/eric/tools/css/reset/ 
+﻿/* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
-   Licença: nehuma (domínio público)
+   License: none (public domain)
 */
 
 html, body, div, span, applet, object, iframe,
@@ -23,7 +23,7 @@ time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;
 }
-/* Redefinição da função de exibição de HTML5 para navegadores mais antigos */
+/* HTML5 redefinição de função de exibição para navegadores mais antigos */
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
 	display: block;
